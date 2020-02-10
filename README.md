@@ -1,5 +1,12 @@
 # ClassroomVR
 
+
+NYC WebVR Hackathon 2.0
+
+WINNER WebVR Second Prize
+https://devpost.com/software/afterclassvr
+
+
 About
 Although the internet has made educational resources available to larger audiences, online-learning can not replace the value of the in-person interaction between a student and a teacher. WebVR can help improve the online education experience by providing students and teachers with an immersive environment that re-introduces the value of face-to-face interaction.
 
